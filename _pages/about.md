@@ -17,5 +17,5 @@ My research interests are in Robotics and Optimization.
 
 Publications
 ======
-- June 2022: [Collision Detection Accelerated: An Optimization Perspective](https://arxiv.org/abs/2205.09663). Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier. Published at RSS 2022. [Paper](https://arxiv.org/abs/2205.09663), [Code](https://github.com/lmontaut/collision-detection-benchmark), [Project page]()
+- June 2022: [Collision Detection Accelerated: An Optimization Perspective](https://arxiv.org/abs/2205.09663). Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier. Published at RSS 2022. [Paper](https://arxiv.org/abs/2205.09663), [Code](https://github.com/lmontaut/collision-detection-benchmark), [Project page](https://lmontaut.github.io/nesterov-gjk.github.io/)
 
