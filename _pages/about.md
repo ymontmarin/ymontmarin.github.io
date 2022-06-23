@@ -19,3 +19,5 @@ Publications
 ======
 - June 2022: [Collision Detection Accelerated: An Optimization Perspective](https://arxiv.org/abs/2205.09663). Louis Montaut, Quentin Le Lidec, Vladimir Petrik, Josef Sivic, Justin Carpentier. Published at RSS 2022. [Paper](https://arxiv.org/abs/2205.09663), [Code](https://github.com/lmontaut/collision-detection-benchmark), [Project page](https://lmontaut.github.io/nesterov-gjk.github.io/)
 
+- March 2022: [Leveraging Randomized Smoothing for Optimal Control of Nonsmooth Dynamical Systems](https://arxiv.org/abs/2203.03986). Quentin Le Lidec, Louis Montaut, Cordelia Schmid, Ivan Laptev, Justin Carpentier. Pre-print. [Paper](https://arxiv.org/abs/2203.03986)
+
