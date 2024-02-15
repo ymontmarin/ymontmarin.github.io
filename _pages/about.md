@@ -23,7 +23,7 @@ Publications
 
 - May 2023: [A minimum swept-volume metric structure for configuration space](https://ieeexplore.ieee.org/document/10161367). Y de Mont-Marin, J Ponce, JP Laumond. Published at ICRA 2023. [Paper](https://ieeexplore.ieee.org/document/10161367)
 
-- May 2022: [Spherical perspective on learning with normalization layers](https://imagine.enpc.fr/~roburins/spherical_persp/). S Roburin*, Y de Mont-Marin*, A Bursuc, R Marlet, P Pérez, M Aubry. Neurocomputing. [Paper](https://www.sciencedirect.com/science/article/pii/S092523122200159X), [Code](https://github.com/ymontmarin/adamsrt)
+- May 2022: [Spherical perspective on learning with normalization layers](https://imagine.enpc.fr/~roburins/spherical_persp/). S Roburin\*, Y de Mont-Marin\*, A Bursuc, R Marlet, P Pérez, M Aubry. Neurocomputing. [Paper](https://www.sciencedirect.com/science/article/pii/S092523122200159X), [Code](https://github.com/ymontmarin/adamsrt)
 
 
 Teaching
