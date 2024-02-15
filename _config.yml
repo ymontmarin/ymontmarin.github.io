@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "Yann_dMM"
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Louis Montaut"
+  name             : "Yann de Mont-Marin"
   avatar           : "profile.jpg"
-  bio              : "PhD student in robotics - Willow team at Inria, Paris & Impact team at CIIRC, Prague"
+  bio              : "PhD student in robotics - Willow team at Inria DI-ENS, Paris"
   location         : "Inria, Paris"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=iN41GLwAAAAJ&hl=en&oi=ao"
-  email            : "louis.montaut@inria.fr, louis.montaut@cvut.cz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "yann.montmarin@gmail.com, yann.de-mont-marin@inria.fr"
+  researchgate     : "https://www.researchgate.net/profile/Yann-De-Mont-Marin"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lmontaut"
+  github           : "ymontmarin"
   google_plus      :
   keybase          :
   instagram        :
