@@ -18,20 +18,33 @@ Today, my research interests are applying modern geometry to Robotics and Optimi
 
 Publications
 ======
-- August 2023: [Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation](https://arxiv.org/abs/2312.05190). B Lecouat, Y de Mont-Marin, T Bodrito, J Mairal, J Ponce. Preprint. [Paper](https://arxiv.org/pdf/2312.05190.pdf)
+**Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**.
+B Lecouat\*, **Y de Mont-Marin**\*, T Bodrito\*, J Mairal, J Ponce.
+Preprint.
+[Paper](https://arxiv.org/pdf/2312.05190.pdf)
 
 
-- May 2023: [A minimum swept-volume metric structure for configuration space](https://ieeexplore.ieee.org/document/10161367). Y de Mont-Marin, J Ponce, JP Laumond. Published at ICRA 2023. [Paper](https://ieeexplore.ieee.org/document/10161367)
+**A minimum swept-volume metric structure for configuration space**.
+**Y de Mont-Marin**, J Ponce, JP Laumond. Published at ICRA 2023.
+[Paper](https://ieeexplore.ieee.org/document/10161367)
 
-- May 2022: [Spherical perspective on learning with normalization layers](https://imagine.enpc.fr/~roburins/spherical_persp/). S Roburin\*, Y de Mont-Marin\*, A Bursuc, R Marlet, P Pérez, M Aubry. Neurocomputing. [Paper](https://www.sciencedirect.com/science/article/pii/S092523122200159X), [Code](https://github.com/ymontmarin/adamsrt)
+**Spherical perspective on learning with normalization layers**.
+S Roburin\*, **Y de Mont-Marin**\*, A Bursuc, R Marlet, P Pérez, M Aubry.
+Neurocomputing.
+[Paper](https://www.sciencedirect.com/science/article/pii/S092523122200159X), [Code](https://github.com/ymontmarin/adamsrt), [Project page](https://imagine.enpc.fr/~roburins/spherical_persp/)
 
 
 Teaching
 ======
-- 2022-2024: Planification de mouvement en robotique et en animation graphique at [ENS](https://www.ens.psl.eu/). Main maintainer of the robotics tutorials [tps_robotis](https://github.com/ymontmarin/_tps_robotique).
+**Planification de mouvement en robotique et en animation graphique**
+2022-2024 at [ENS](https://www.ens.psl.eu/).
+[Tutorials](https://github.com/ymontmarin/_tps_robotique)
 
 
 Side projects
 ======
-- Backend developer for the open-source website [les portes du cinema](https://portesducinema.fr/) to promote theater accessibility for persons with disabilities.
-- Game developer participating in GMTK game James 2021 and 2023: [games](https://havenvik.itch.io/)
+**Backend developer** for the open-source website les portes du cinema to promote theater accessibility for persons with disabilities.
+[website](https://portesducinema.fr/)
+
+**Game developer** participating in GMTK game James 2021 and 2023:
+[games](https://havenvik.itch.io/)
