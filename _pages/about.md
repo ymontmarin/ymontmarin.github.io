@@ -44,5 +44,5 @@ Side projects
 **Backend developer** for the open-source website les portes du cinema to promote theater accessibility for persons with disabilities.\
 [website](https://portesducinema.fr/)
 
-**Game developer** participating in GMTK game James 2021 and 2023.\
+**Game developer** who participated in the GMTK Game Jams 2021 and 2023.\
 [games](https://havenvik.itch.io/)
