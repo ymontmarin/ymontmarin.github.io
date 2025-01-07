@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+I am currently a Post-Doc in the [Willow](https://www.inria.fr/en/willow) team at [Inria](https://www.inria.fr/fr/centre-inria-de-paris) in Paris, working on integrating modern geometry to robotics and optimization software.
 
 I did my PhD under the supervision of [Jean Ponce](https://www.di.ens.fr/~ponce/), [Jean Paul-Laumond](https://fr.wikipedia.org/wiki/Jean-Paul_Laumond) and [Marital Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/) at [Departement d'Informatique de l'ENS](https://www.di.ens.fr/), and I work in the [Willow](https://www.inria.fr/en/willow) team at [Inria](https://www.inria.fr/fr/centre-inria-de-paris) in Paris.
 
