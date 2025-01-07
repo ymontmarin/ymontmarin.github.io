@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yann de Mont-Marin"
+title                    : "Dr Yann de Mont-Marin"
 title_separator          : "-"
 name                     : &name "Yann de Mont-Marin"
 description              : &description "personal description"
