@@ -14,8 +14,6 @@ I did my PhD under the supervision of [Jean Ponce](https://www.di.ens.fr/~ponce/
 
 I received an MSc degree in applied mathematics from [Ecole Centrale Paris](https://www.centralesupelec.fr/) in 2017. Before my academic journey, I applied NLP techniques to semantic web page identification for [Numberly](https://numberly.com/en/).
 
-Today, my research interests are applying modern geometry to Robotics and Optimization.
-
 
 Publications
 ======
