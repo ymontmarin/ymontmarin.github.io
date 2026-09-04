@@ -19,7 +19,7 @@ Publications
 ======
 **Matrix-Free Delassus Operations: Scalable and Memory-Efficient Algorithms**.\
 AS Sathya, L Montaut, **Y de Mont-Marin**, J Carpentier.\
-[Preprint](https://arxiv.org/pdf/2509.25999)
+[IEEE RAL](https://hal.science/hal-05457476v1/file/RAL___Matrix_free_Delassus_Computation.pdf)
 
 **On the conic complementarity of planar contacts**.\
 **Y de Mont-Marin**, L Montaut, J Ponce, M Hebert, J Carpentier.\
