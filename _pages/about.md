@@ -30,7 +30,7 @@ AS Sathya, L Montaut, **Y de Mont-Marin**, J Carpentier.\
 [WAFR Paper](https://inria.hal.science/hal-04522485/document)
 
 **End-to-End and Highly-Efficient Differentiable Simulation for Robotics**.\
-Q Le Lidec\*, L Montaut\*, **Y de Mont-Marin**, J Carpentier.\
+Q Le Lidec\*, L Montaut\*, **Y de Mont-Marin**\*, J Carpentier.\
 [Preprint](https://arxiv.org/pdf/2409.07107)
 
 **Fine Dense Alignment of Image Bursts through Camera Pose and Depth Estimation**.\
