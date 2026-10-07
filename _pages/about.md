@@ -17,6 +17,10 @@ I received an MSc degree in applied mathematics from [Ecole Centrale Paris](http
 
 Publications
 ======
+**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**.\
+G Besset\*, E Carn\*, T Carecchio Sathya, V Tordjman-Levavasseur, F Schramm, **Y de Mont-Marin**, J Carpentier, AS Sathya.\
+[Preprint](https://arxiv.org/pdf/2609.36602), [Project page](https://simple-robotics.github.io/publications/otretarget/)
+
 **Matrix-Free Delassus Operations: Scalable and Memory-Efficient Algorithms**.\
 AS Sathya, L Montaut, **Y de Mont-Marin**, J Carpentier.\
 [IEEE RAL](https://hal.science/hal-05457476v1/file/RAL___Matrix_free_Delassus_Computation.pdf)
