@@ -53,10 +53,10 @@ S Roburin\*, **Y de Mont-Marin**\*, A Bursuc, R Marlet, P Pérez, M Aubry.\
 Teaching
 ======
 **Robotics**\
-2022-2025 at [MVA](https://www.master-mva.com/cours-1er-semestre/).
+2026- at [MVA](https://www.master-mva.com/cours-1er-semestre/).
 
 **Planification de mouvement en robotique et en animation graphique**\
-2022-2025 at [ENS](https://www.ens.psl.eu/).\
+2022-2026 at [ENS](https://www.ens.psl.eu/).\
 [Tutorials](https://github.com/ymontmarin/_tps_robotique)
 
 
