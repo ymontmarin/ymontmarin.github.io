@@ -17,6 +17,11 @@ I received an MSc degree in applied mathematics from [Ecole Centrale Paris](http
 
 Publications
 ======
+**IKLayer: A Differentiable Inverse Kinematics Layer for Whole-Body Control**.\
+M Scheffler, **Y de Mont-Marin**, C Schmid, J Carpentier.\
+[Preprint](https://hal.science/hal-05778276v1/file/IKLayer__A_Differentiable_Inverse_Kinematics_Layer_for_Whole_Body_Control.pdf
+)
+
 **OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**.\
 G Besset\*, E Carn\*, T Carecchio Sathya, V Tordjman-Levavasseur, F Schramm, **Y de Mont-Marin**, J Carpentier, AS Sathya.\
 [Preprint](https://arxiv.org/pdf/2609.36602), [Project page](https://simple-robotics.github.io/publications/otretarget/)
